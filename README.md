@@ -10,6 +10,7 @@ Machine Learning from Scratch
 ## Resources:
 * Machine Learning by Andrew Ng in Coursera
 * Kaggle
+* Youtube Videos
 
 ## Includes
 * Linear Regression
